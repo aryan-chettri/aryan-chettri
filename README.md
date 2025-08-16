@@ -1,2 +1,3 @@
 Hi I am Aryan. 
-I am a Coder.
+I am a Programmer.
+Just Building things and clearing out concepts of my own......
